@@ -48,7 +48,7 @@ Created your own custom design? We’d love to see it! Submit a pull request or 
 
 * **Installation Guides:** [Beartech Documentation Center](https://docs.innoisle.com/)
 * **Get the Assembled Mount:** [Shop Here](https://shop.beartech.ca/products/beartech-side-slidemount-c4)
-* **Get the DIY Hardware Kit:** [Shop the Kit Here](https://shop.beartech.ca/products/beartech-side-slidemount-c4)
+* **Get the DIY Hardware Kit:** [Shop the Kit Here](https://shop.beartech.ca/products/beartech-side-slidemount-for-c4-diy-starter-kit)
 
 ## Licience
 

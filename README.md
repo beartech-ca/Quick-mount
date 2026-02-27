@@ -1,10 +1,10 @@
-# Slidemount for Comma C4 by Beartech Workshop (Open-Source/Source Available)
+# Slidemount for Comma C4 by Beartech Workshop (Source Available)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Welcome to the official open-source/source-available repository for the Beartech Workshop SlideMount C4!
 
-The Comma 4 is an incredible device, but its new mounting interface is significantly smaller and narrower than previous generations. This makes achieving a secure, vibration-free connection to the windshield much more challenging. We designed the SlideMount C4 from the ground up to provide the ultimate mounting experience, and we are excited to open-source the design for the maker community.
+The Comma 4 is an incredible device, but its new mounting interface is significantly smaller and narrower than previous generations. This makes achieving a secure, vibration-free connection to the windshield much more challenging. We designed the SlideMount C4 from the ground up to provide the ultimate mounting experience, and we are excited to source-available the design for the maker community.
 
 ## 🚀 Why the SlideMount C4?
 
